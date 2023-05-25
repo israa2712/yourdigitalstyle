@@ -1,0 +1,8 @@
+function AbenMode(){
+  document.getElementById("aben").style.display = "block";
+  document.getElementById('luk').style.display = "none";
+
+  document.getElementById("btnAben").style.display="none";
+  document.getElementById("btnLuk").style.display="inline-block";
+ 
+}
