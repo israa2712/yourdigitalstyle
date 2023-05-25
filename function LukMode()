@@ -1,0 +1,7 @@
+function LukMode(){
+  document.getElementById("aben").style.display = "none";
+  document.getElementById("luk").style.display = "block";
+
+  document.getElementById("btnAben").style.display="inline-block";
+  document.getElementById("btnLuk").style.display="none";
+}
